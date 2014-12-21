@@ -1,6 +1,6 @@
 run_analysis.R
 ===================
-# run_analysis.R routine has following functions :
+run_analysis.R routine has following functions :
 
 mergeDatasets - This function read training and  testing CSV input files and  merges them
 
